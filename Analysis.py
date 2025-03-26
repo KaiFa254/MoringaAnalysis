@@ -8,3 +8,5 @@ with open(file_path,'r') as file:
 
     print(content)
 print("another one")
+
+print("from remote")

@@ -7,3 +7,4 @@ with open(file_path,'r') as file:
     content = file.readlines()
 
     print(content)
+print("another one")
